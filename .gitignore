@@ -1,0 +1,21 @@
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Local IDEs
+.venv/
+.env
+.vscode/
+.idea/
+
+# Marimo Caches & Internal
+__marimo__/
+.agents/
+.system_generated/
+scratch/
+*.log
+
+# Temp files
+*.tmp
+*.bak

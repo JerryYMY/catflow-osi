@@ -1,0 +1,7 @@
+# CatFlow-Marimo Dependencies
+# OSI Hackathon 2026 · Physical Sciences & Mathematics Track
+
+marimo>=0.10.0
+rdkit>=2023.9.1
+plotly>=5.18.0
+py3Dmol>=2.0.4
